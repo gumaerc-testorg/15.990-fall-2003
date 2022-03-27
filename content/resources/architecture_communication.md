@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e25b8ab7-d77b-c641-f59e-4bbfe183a512
 resourcetype: Document
 title: architecture_communication.pdf
 uid: e9e03a53-042b-1f4e-988a-f59455be057c

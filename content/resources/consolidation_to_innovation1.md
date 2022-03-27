@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e25b8ab7-d77b-c641-f59e-4bbfe183a512
 resourcetype: Document
 title: consolidation_to_innovation1.pdf
 uid: 068d8bb8-8370-0119-d00d-13d51b53cda9

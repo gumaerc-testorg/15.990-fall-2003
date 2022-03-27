@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e25b8ab7-d77b-c641-f59e-4bbfe183a512
 resourcetype: Document
 title: workplace_design.pdf
 uid: 9f6e4824-0843-e5bc-e974-dbb1182d96ae

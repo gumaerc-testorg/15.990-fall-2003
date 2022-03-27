@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e25b8ab7-d77b-c641-f59e-4bbfe183a512
 resourcetype: Document
 title: case_studies_emerging_topics.pdf
 uid: 26c747eb-dd92-c749-b6ff-e308874f15e6

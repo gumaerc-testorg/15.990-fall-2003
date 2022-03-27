@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e25b8ab7-d77b-c641-f59e-4bbfe183a512
 resourcetype: Document
 title: strategy_and_design.pdf
 uid: 478263a2-c551-4cab-9327-b973725a1620
