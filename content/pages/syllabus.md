@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, deliverables, readings, and faculty biographies.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -21,7 +23,7 @@ None.
 Required Reading
 ----------------
 
-None. For suggested readings, see the [readings]({{< baseurl >}}/pages/readings) page.
+None. For suggested readings, see the {{% resource_link 1dd2b3a5-5690-f0cd-9b52-a32e418dd6d7 "readings" %}} page.
 
 Faculty Bios
 ------------
