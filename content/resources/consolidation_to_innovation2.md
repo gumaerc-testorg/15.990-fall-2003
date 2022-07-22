@@ -6,6 +6,7 @@ file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: consolidation_to_innovation2.pdf
 uid: 3a13eda6-0a23-3f5d-7993-416ed194c1e9
 ---
 From Consolidation to Innovation 2. Presentation courtesy of Dr. Charles Slife, Gillette Corporation. Used with permission.
-

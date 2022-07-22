@@ -6,6 +6,7 @@ file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: consolidation_to_innovation1.pdf
 uid: 068d8bb8-8370-0119-d00d-13d51b53cda9
 ---
 From Consolidation to Innovation 1. Presentation courtesy of Cameron Roberts, Ganteaume & McMullen. Used with permission.
-

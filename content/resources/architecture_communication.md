@@ -5,6 +5,7 @@ file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: architecture_communication.pdf
 uid: e9e03a53-042b-1f4e-988a-f59455be057c
 ---
 Research and findings by Prof. Tom Allen.
-

@@ -6,6 +6,7 @@ file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: strategy_and_design.pdf
 uid: 478263a2-c551-4cab-9327-b973725a1620
 ---
 Strategy and Design: Why Space Matters.  Presentation courtesy of Dr. Francis Duffy, DEGW. Used with permission.
-
