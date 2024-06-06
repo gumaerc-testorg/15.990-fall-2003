@@ -3,6 +3,7 @@ content_type: resource
 description: From Consolidation to Innovation 2. Presentation courtesy of Dr. Charles
   Slife, Gillette Corporation. Used with permission.
 file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/3a13eda60a233f5d7993416ed194c1e9_consolidation_to_innovation2.pdf
+file_size: 257163
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

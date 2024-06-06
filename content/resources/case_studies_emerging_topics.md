@@ -3,6 +3,7 @@ content_type: resource
 description: 'Discussion of Case Studies and Emerging Topics.  Beyond work stations:
   Themes in strategic focused design.'
 file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/26c747ebdd92c749b6ffe308874f15e6_case_studies_emerging_topics.pdf
+file_size: 2790865
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
