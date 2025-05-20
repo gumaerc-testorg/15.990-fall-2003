@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Research and findings by Prof. Tom Allen.
-file: /ol-ocw-studio-app/courses/15-990-architecture-and-communication-in-organizations-fall-2003/e9e03a53042b1f4e988af59455be057c_architecture_communication.pdf
+file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/e9e03a53042b1f4e988af59455be057c_architecture_communication.pdf
 file_size: 2390210
 file_type: application/pdf
 learning_resource_types:
