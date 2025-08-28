@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Strategy and Design: Why Space Matters.  Presentation courtesy of Dr.
   Francis Duffy, DEGW. Used with permission.'
-file: /courses/15-990-architecture-and-communication-in-organizations-fall-2003/478263a2c5514cab9327b973725a1620_strategy_and_design.pdf
+file: /ol-ocw-studio-app/courses/15-990-architecture-and-communication-in-organizations-fall-2003/478263a2c5514cab9327b973725a1620_strategy_and_design.pdf
 file_size: 782553
 file_type: application/pdf
 learning_resource_types:
